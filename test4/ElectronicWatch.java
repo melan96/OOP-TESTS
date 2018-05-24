@@ -1,5 +1,5 @@
 package test4;
-
+//check source code -commit changes successfull
 public class ElectronicWatch extends Watch{
 
 	public ElectronicWatch(int hours,int minutes,int seconds){
